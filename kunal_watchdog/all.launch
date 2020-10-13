@@ -1,0 +1,10 @@
+<launch>
+
+    <node pkg ="kunal_watchdog"
+        type="main.py"
+        name="kunal_watchdog_node"
+        output="screen">
+
+  </node>
+
+</launch>
